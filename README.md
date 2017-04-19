@@ -47,10 +47,10 @@ $ sudo apt-get install wmctrl
 
 * **Kznamst** - [Kznamst](https://github.com/kznamst)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/kznamst/DropDownTx/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU General Public License.
 
 
