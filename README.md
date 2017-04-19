@@ -56,6 +56,14 @@ $ killall xbindkeys ; xbindkeys
 ```
 $ sudo apt-get install wmctrl
 ```
+## Errors and solutions:
+* -bash: ./terminal: /bin/bash^M: bad interpreter: No such file or directory
+**Solution: **
+```
+This script was written in Atom, and it may have added other chars so we have to remove them
+$ sed -i -e 's/\r$//' terminal.sh
+```
+
 ## Authors
 
 * **Kznamst** - [Kznamst](https://github.com/kznamst)
