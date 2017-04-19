@@ -8,11 +8,11 @@
 
 # Content:
 * [Features](#features)
-* [Features that i want to add](#Features-that-i-want-to-add)
+* [Features that i want to add](#features-that-i-want-to-add)
 * [Dependices](#dependices)
 * [Tested in](#script-works-in)
 * [Instructions](#instructions)
-* [Errors and solutions](#Errors-and-solutions)
+* [Errors and solutions](#errors-and-solutions)
 * [Bugs](#bugs)
 * [Author](#author)
 * [License](#license)
