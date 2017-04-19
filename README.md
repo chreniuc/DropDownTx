@@ -40,7 +40,7 @@ $ sudo apt-get install xbindkeys
 ```
 **Create default settings for xbindkeys**
 ```
-$ xbindkeys --defaults > /.xbindkeysrc
+$ xbindkeys --defaults > ~/.xbindkeysrc
 ```
 **adding keyboard Shortcut, mine is: "Ctrl + <", after that we restart xbindkeys**
 
