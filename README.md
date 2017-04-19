@@ -1,5 +1,7 @@
-# DropDownTx
-DropDownTx - It's a simple scripts that opens a XTerm like a dropdown. I also tried Guake, but i didn't like it because it was always running in the background(it didn't kill it when i closed). This scripts kills the process when a window with the name "DropDownTx" is opened, if it doesn't find a window it will start a new fresh one.
+# DropDownTx 
+ It's a simple scripts that opens a XTerm like a dropdown. I also tried Guake, but i didn't like it because it was always running in the background(it didn't kill it when i closed). This scripts kills the process when a window with the name "DropDownTx" is opened, if it doesn't find a window it will start a new fresh one.
+  This dropdown terminal was made for Lubuntu, it might work also on other linux distibutions.
+
 
 # Demo
 ![DropDownTx](http://i.imgur.com/xQSCnPz.gif)
