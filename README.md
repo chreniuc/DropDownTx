@@ -63,6 +63,8 @@ $ sudo apt-get install wmctrl
 This script was written in Atom, and it may have added other chars so we have to remove them
 $ sed -i -e 's/\r$//' terminal.sh
 ```
+## Bugs:
+* 1 . If you have a window opened with this name "DropDownTx7683" it will interfere with the script. It may close that window.
 
 ## Authors
 
