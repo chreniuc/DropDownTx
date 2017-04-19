@@ -50,7 +50,6 @@ else
     if test $(wmctrl -l | grep "DropDownTx" | wc -l) -eq 1
     then
       #The window is opened now, so we will end this loop
-      echo "\n Cat o luat - $c" >> ~/Apps/dropdown_Terminal/log
       break;
     fi
     sleep $delay_dd
