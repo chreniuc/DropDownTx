@@ -25,6 +25,10 @@ What things you need to install the script:
   * **xprop** - to get the PID using the ID of a window
   * [optional]**xbindkeys** - to execute the script using a keyboard shortcut
 
+### Script works in:
+* Lubuntu 17.04, 16.10
+* Arch with LXDE
+
 ### Instructions
 
 **Making the script executable:**
