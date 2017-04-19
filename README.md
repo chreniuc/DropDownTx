@@ -1,6 +1,20 @@
 # DropDownTx
 DropDownTx - It's a simple scripts that opens a XTerm like a dropdown. I also tried Guake, but i didn't like it because it was always running in the background(it didn't kill it when i closed). This scripts kills the process when a window with the name "DropDownTx" is opened, if it doesn't find a window it will start a new fresh one.
 
+# Demo
+![DropDownTx](http://i.imgur.com/xQSCnPz.gif)
+
+# Features
+* Always stays on top
+* When you close it, it doesn't hide only the window, it ends the process
+* You can change the speed for the drop down effect, check **$delay_dd** and **$step** in the script
+* You can customize it, change height, font color, background color. Much more if you know how to use XTerm fields
+
+
+### Features that i want to add:
+* transparent background, without using Compiz(let me know if you have some ideas)
+
+
 ### Dependices
 
 What things you need to install the script:
@@ -40,9 +54,6 @@ $ killall xbindkeys ; xbindkeys
 ```
 $ sudo apt-get install wmctrl
 ```
-### Features that i want to add:
-* transparent background, without using Compiz(let me know if you have some ideas)
-
 ## Authors
 
 * **Kznamst** - [Kznamst](https://github.com/kznamst)
