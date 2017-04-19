@@ -6,6 +6,17 @@
 # Demo
 ![DropDownTx](http://i.imgur.com/xQSCnPz.gif)
 
+# Content:
+* [Features](#features)
+* [Features that i want to add](#Features-that-i-want-to-add)
+* [Dependices](#dependices)
+* [Tested in](#script-works-in)
+* [Instructions](#instructions)
+* [Errors and solutions](#Errors-and-solutions)
+* [Bugs](#bugs)
+* [Author](#author)
+* [License](#license)
+
 # Features
 * Always stays on top
 * When you close it, it doesn't hide only the window, it ends the process
@@ -70,7 +81,7 @@ $ sed -i -e 's/\r$//' terminal.sh
 ## Bugs:
 * 1 . If you have a window opened with this name "DropDownTx7683" it will interfere with the script. It may close that window.
 
-## Authors
+## Author
 
 * **Kznamst** - [Kznamst](https://github.com/kznamst)
 
