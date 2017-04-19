@@ -1,7 +1,8 @@
 #!/bin/bash
-#Getting the curent screen width
 #Author:
 #DropDownTx plugin made by Kznamst https://github.com/kznamst/
+
+#Getting the curent screen width
  width_screen=$(xrandr --current | grep '*' | uniq | awk '{print $1}' | cut -d 'x' -f1)
  height=180 #in pixels, height of the terminal
  delay_dd=0.001 #delay for the dropdown expand and hide, small is fast
