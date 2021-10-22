@@ -47,6 +47,7 @@ then
     $(wmctrl -r "DropDownTx7683" -b remove,hidden)
     $(wmctrl -r "DropDownTx7683" -b add,above)
     scroll_window 1
+    $(wmctrl -a "DropDownTx7683")
   fi
 else
   #There is no window named "DropDownTx" opened, so we will open one
